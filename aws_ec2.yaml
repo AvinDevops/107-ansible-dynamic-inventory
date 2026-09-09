@@ -8,7 +8,7 @@ keyed_groups:
   parent_group: ''
 
 filters:
-  tags:Name: "Backend*"
+  tag:Name: "Backend*"
 
 compose:
   # Use the private IP address to connect to the host
